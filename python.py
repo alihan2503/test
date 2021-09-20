@@ -3,7 +3,7 @@ class Car:
         self.make = make
         self.model = model
         self.year = year
-        self.odometer = 0
+        self.odometer = 7
         self.fuel = 70
 
 
